@@ -1,0 +1,4 @@
+Relatório:
+Data: HOJE
+Total de livros: 5
+Total de usuários: 2
